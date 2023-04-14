@@ -1,0 +1,39 @@
+{
+  "name": "@garou/eslint-config",
+  "version": "1.0.0",
+  "description": "ESLint config for Garou",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "lint": "eslint index.js"
+  },
+  "exports": {
+    ".": {
+      "require": "./index.js"
+    }
+  },
+  "keywords": [
+    "eslint",
+    "garou"
+  ],
+  "homepage": "https://github.com/garoudev/eslint-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garoudev/eslint-config.git",
+    "directory": "packages/eslint-config"
+  },
+  "bugs": {
+    "url": "https://github.com/garoudev/eslint-config/issues"
+  },
+  "author": "Joshua Avalon",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.58.0",
+    "@typescript-eslint/parser": "^5.58.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint": "^8.38.0",
+    "prettier": "^2.8.7"
+  }
+}
