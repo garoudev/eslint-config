@@ -17,6 +17,9 @@
     "eslint",
     "garou"
   ],
+  "files": [
+    "index.js"
+  ],
   "homepage": "https://github.com/garoudev/eslint-config#readme",
   "repository": {
     "type": "git",
