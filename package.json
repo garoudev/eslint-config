@@ -1,5 +1,5 @@
 {
-  "name": "@garou/eslint-config",
+  "name": "@garoudev/eslint-config",
   "version": "1.0.0",
   "description": "ESLint config for Garou",
   "publishConfig": {
