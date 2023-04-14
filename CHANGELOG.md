@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/garoudev/eslint-config/compare/v1.0.0...v1.0.1) (2023-04-14)
+
+
+### Bug Fixes
+
+* Remove unnecessary files ([d4aceb9](https://github.com/garoudev/eslint-config/commit/d4aceb90e4bda8a5078e78fb9a2c92b9f9621340))
+
 ## 1.0.0 (2023-04-14)
 
 
