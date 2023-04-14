@@ -1,6 +1,6 @@
 root: true
 extends:
-  - "@garou/eslint-config"
+  - "@garoudev/eslint-config"
 env:
   es6: true
   node: true
